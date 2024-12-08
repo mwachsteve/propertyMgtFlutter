@@ -1,4 +1,4 @@
-# ftips_bloc_fetch_api
+# property_bloc_fetch_api
 
 A new Flutter project.
 
